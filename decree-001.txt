@@ -1,1 +1,1 @@
-Suck my dick
+print("Hello world")
