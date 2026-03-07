@@ -1,0 +1,5 @@
+def work(a):
+	print('user1')
+
+
+work(a)
